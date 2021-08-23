@@ -22,6 +22,10 @@
 - __Bli en bra webbutvecklare__
   - __Slipa kunskaperna__
     - __Ta över Facebook__
+
+<br>
+<br>
+
 ![Thezuck](img/giphy.gif)
 <br>
 
