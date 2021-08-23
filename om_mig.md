@@ -64,7 +64,7 @@ __*Favoritserier*__
 ![Bad](img/Breakingbad.gif)
 
 
-[Tillbaka](README.md)
+[Tillbaka till introduktion](README.md)
 
 
 
