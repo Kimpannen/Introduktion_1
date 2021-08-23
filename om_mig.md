@@ -42,9 +42,7 @@
   - Tränar
   - Äter
   - Promenerar
-<br>
-  - 😚
-  - Sover
+  - Sover 😴
 
 __*Favoritspel*__
   - Red Dead Redemption 2
