@@ -24,7 +24,6 @@
     - __Ta över Facebook__
 
 <br>
-<br>
 
 ![Thezuck](img/giphy.gif)
 <br>
