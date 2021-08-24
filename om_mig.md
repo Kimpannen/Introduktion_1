@@ -34,7 +34,7 @@
 3. Spela gitarr
 4. Umgås med vänner
 5. Fiska
-6. 🙉
+
 
 #### __*Vad Gör du på din lediga tid?*__
   - Vilar
